@@ -5,23 +5,9 @@ This is a program I made to browse and manage my rom library outside of Emulatio
 # Requirements
 RetroBat
 
-Python 3.12
-
-PyQt6>=6.4.0
-
-Pillow>=9.0.0
-
-lxml>=4.9.0
-
 # Setup
 
-The launch.bat should check for prerequisites. If you don' thave python, it will link you to the correct version.
-
-Once python is installed, running the launch.bat again should download the prerequisites if they don't already exist on your system.
-
-If all prerequisites are met, launch.bat should launch the program.
-
-build.bat can also be used to build a .exe 
+Download the .exe from Releases. You can run it from any location. When you run it for the first time you will have to set the location of your rom library. 
 
 ---
 
