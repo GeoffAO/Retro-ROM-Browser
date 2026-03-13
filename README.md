@@ -4,9 +4,13 @@ This is a program I made to browse and manage my rom library outside of Emulatio
 
 # Requirements
 RetroBat
+
 Python 3.12
+
 PyQt6>=6.4.0
+
 Pillow>=9.0.0
+
 lxml>=4.9.0
 
 # Setup
@@ -23,9 +27,9 @@ build.bat can also be used to build a .exe
 
 # Why RetrotBat Specifically?
 
-Mainly for ease of use. Between RetroBat's tweaks and Emulation Station's quirks, you end up with rather specific naming convetions for media that isn't always true for other Emulation Station setups. Since I use RetroBat I just worked with those quirks rather than try to generalize the program.
+Mainly for ease of use. Between RetroBat's tweaks and Emulation Station's quirks, you end up with rather specific naming convetions for media that isn't always true for other Emulation Station setups. Since I use RetroBat I just worked with those quirks rather than trying to generalize the program.
 
-# Feaetures
+# Features
 
 **Sync:** This was one of the main reason. Easily browsing rom library and choosing games to sync to my retro handhelds.
 
